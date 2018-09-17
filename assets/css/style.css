@@ -1,0 +1,80 @@
+body {
+    background-image: url(../images/background1.jpg);
+    background-size: 100%;
+    line-height: 25px;
+    width: 60%;
+    color: black;
+    margin-left: 1%;
+    position: absolute;
+}
+
+
+header {
+    color: black;
+    background: white;
+    border: solid 5px rgba(20, 219, 219, 0.801);
+    font-size: 50px;
+    padding: 2% 0 2% 2%;
+    text-align: center;
+    line-height: 50px;
+    margin-bottom: 10px;
+    font-family: 'Economica', sans-serif;
+   
+}
+
+p {
+    background: white;
+    border: solid 5px rgba(20, 219, 219, 0.801);
+    padding: 1%;
+    margin-bottom: 10px;
+    font-family: 'Economica', sans-serif;
+}
+#target-number {
+    font-size: 40px;
+    background:white;
+    width: 30%;
+    height: 60px;
+    padding-top:40px;
+    text-align: center;
+    border: solid 5px rgba(20, 219, 219, 0.801);
+    margin-right: 15px;
+    float: left;
+    vertical-align: middle;
+    font-family: 'Economica', sans-serif;
+}
+
+#score {
+    background: white;
+    border: solid 5px rgba(20, 219, 219, 0.801);
+    float: left;
+    height: 100px;
+    padding-right: 10%;
+    padding-left: 5%;
+    margin-right: 30%;
+    margin-bottom: 10px;
+    font-family: 'Economica', sans-serif;
+}
+
+#wins-losses{
+    color: black;
+    font-family: 'Economica', sans-serif;
+}
+.crystal-image {
+    width: 20%;
+    height: 125px;
+    border: solid 5px rgba(20, 219, 219, 0.801);
+}
+
+#score-announce {
+    width: 28%;
+
+}
+
+#total-score {
+    background: white;
+    border: solid 5px rgba(20, 219, 219, 0.801);
+    width: 20%;
+    padding: 5%;
+    font-size: 40px;
+    font-family: 'Economica', sans-serif;
+}
