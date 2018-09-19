@@ -4,7 +4,7 @@ var targetNumber = 0;
 
 var crystalNumber = [Math.floor(Math.random() * (12 - 1) + 1), Math.floor(Math.random() * (12 - 1) + 1), Math.floor(Math.random() * (12 - 1) + 1), Math.floor(Math.random() * (12 - 1) + 1)];
 
-var images = ["assets/images/crystal 1.jpg", "assets/images/crystal 2.jpg", "assets/images/crystal 3.jpg", "assets/images/crystal 4.jpg"];
+var images = ["assets/images/Crystal 1.jpg", "assets/images/crystal 2.jpg", "assets/images/crystal 3.jpg", "assets/images/crystal 4.jpg"];
 
 var crystalImage;
 
